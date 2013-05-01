@@ -1,5 +1,4 @@
-
-package com.example.hubbscenter;
+package com.example.dissentfinal;
 
 import android.os.Bundle;
 import android.view.View;
@@ -28,5 +27,6 @@ public class HomeScreen extends Activity implements OnClickListener {
     	}
     		
     }
-
 }
+
+
