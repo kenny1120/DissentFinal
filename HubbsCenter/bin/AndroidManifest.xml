@@ -20,6 +20,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".MenuScreen"></activity>
+        <activity android:name=".AboutScreen"></activity>
+         <activity android:name=".HandBookScreen"></activity>
+         <activity android:name=".HandBookScreen1"></activity>
+         <activity android:name=".HandBookScreen2"></activity>
+         <activity android:name=".CheckScreen"></activity>
+         <activity android:name=".ContactScreen"></activity>
+         <activity android:name=".OpportunityScreen"></activity>
     </application>
 
 </manifest>
